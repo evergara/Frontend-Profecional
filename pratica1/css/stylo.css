@@ -1,0 +1,19 @@
+body{
+	background: #fcfcfc;
+	font-size: 16px;
+}
+.capa{
+	background: #f8f8f8;
+	box-shadow: 1px 1px 1px #cccbcb;
+	border:  1px solid #eee;
+	color: #3893DA;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 5% auto;
+	padding: 31px;
+	text-align: center;
+}
+.capa:hover{
+	background: orange;
+
+}
